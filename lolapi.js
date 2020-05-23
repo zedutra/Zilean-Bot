@@ -7,21 +7,6 @@ var config = {
 	}
 }
 
-/*
-axios
-  .get('https://br1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Z%C3%A9%20Dutra', config)
-  .then(response => {
-	  var name = response.data.name
-	  var level = response.data.summonerLevel
-	  var id = response.data.id
-	  var icon = response.data.profileIconId
-	  console.log(`Olá ${name}, seu level é ${level}, seu id é ${id} e seu icone é o ${icon}`)
-  })
-  .catch(function(error){
-	  console.log(error)
-  })
-*/
-
 async function getId(nome) { /* name ~> nome do jogador */
 	let url = 'https://br1.api.riotgames.com/lol/summoner/v4/summoners/by-name/' + encodeURIComponent(nome)
 	let dados = []
