@@ -7,5 +7,5 @@ Zilean é um robo para o discord, sua função é mostrar o perfil de jogadores 
     - API da RIOT
 
 **Agradecimentos especiais**
-    - fparol9
-    - felipeboruto
+- fparol9
+- felipeboruto
