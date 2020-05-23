@@ -1,11 +1,12 @@
 **Sobre**
-Zilean é um robo para o discord, sua função é mostrar o perfil de jogadores no lol
+Zilean é um discord bot, sua função é apresentar para o usuário o perfil de um determinado jogador
+no League of Legends
 
 **Feito em**
 - Javascript (node)
-    - Modulos de bot do discord
+    - Modulos do discord
     - API da RIOT
 
 **Agradecimentos especiais**
-- fparol9
+- fparol4
 - felipeboruto
