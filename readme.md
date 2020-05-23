@@ -1,4 +1,4 @@
-**Sobre**
+**Sobre**<br>
 Zilean é um discord bot, sua função é apresentar para o usuário o perfil <br>
 de um determinado jogador no League of Legends
 
